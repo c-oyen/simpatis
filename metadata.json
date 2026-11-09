@@ -1,0 +1,8 @@
+{
+  "name": "SIMPATIS BANGKA FIX KAYAKNYA",
+  "description": "Sistem Informasi Meningkatkan Efisiensi dan Produksi Komoditas Strategis di Kabupaten Bangka",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
